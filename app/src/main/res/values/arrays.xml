@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_day_options">
+        <item>@string/day_unknown</item>
+        <item>@string/day_sun</item>
+        <item>@string/day_mon</item>
+        <item>@string/day_tue</item>
+        <item>@string/day_wed</item>
+        <item>@string/day_thu</item>
+        <item>@string/day_fri</item>
+        <item>@string/day_sat</item>
+    </string-array>
+</resources>
